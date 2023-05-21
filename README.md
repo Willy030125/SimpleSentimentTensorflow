@@ -1,2 +1,2 @@
 # SimpleSentimentTensorflow
-Simple Customer Sentiment Analysis using Tensorflow and Keras' Bag of Words (BoW)
+Simple Customer Sentiment Analysis using Tensorflow and Keras Index-based Encoding with Word Embeddings
